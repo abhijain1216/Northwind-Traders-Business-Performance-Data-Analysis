@@ -6,5 +6,8 @@ The objective of this project is to analyze **Northwind Traders' sales data** an
 **1. Sales Trends**    
 **2. Product Performance**      
 **3. Key Customer**     
-**4. Shipping Costs**      
+**4. Shipping Costs**   
+
+### *About The Data Set*
+Sales and order data for Northwind Traders, a fictitious gourmet food supplier, including information on customers, products, orders, shippers, and employees.
 
