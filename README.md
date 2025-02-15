@@ -33,8 +33,8 @@ Developed specific dashboards for **Sales Overview**, **Product Performance**, *
 
 ### *Dashboard*
 <img width="608" alt="Dashboard 1_1" src="https://github.com/user-attachments/assets/751555e0-c139-4050-8c0e-e2013c9fd52f" />
-<img width="605" alt="Dashboard 1" src="https://github.com/user-attachments/assets/5cca4b7f-9475-4ef6-be56-04fd50e765e2" />
-<img width="602" alt="Dashboard 2" src="https://github.com/user-attachments/assets/829b4be8-c548-4cb2-afc3-0cbd5793c655" />
+<img width="604" alt="Dashboard 1" src="https://github.com/user-attachments/assets/85f5966b-154e-40a0-854f-5644386d93d8" />
+<img width="603" alt="Dashboard 2" src="https://github.com/user-attachments/assets/1e0e8c07-1606-46a0-b3be-bc02beb3afcb" />
 <img width="602" alt="Dashboard 2_1" src="https://github.com/user-attachments/assets/3cd61a04-e7ad-47eb-a4f2-eccf94e9a190" />
 <img width="607" alt="Dashboard 3" src="https://github.com/user-attachments/assets/f0d295fb-7d2c-4b5e-b76b-8488f4d34ea1" />
 <img width="602" alt="Dashboard 4_1" src="https://github.com/user-attachments/assets/b27c96be-6b24-4a77-9d48-1f2734f61613" />
