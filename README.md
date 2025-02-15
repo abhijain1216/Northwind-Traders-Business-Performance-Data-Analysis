@@ -30,3 +30,7 @@ Developed specific dashboards for **Sales Overview**, **Product Performance**, *
 2. Power BI Desktop     
 3. Power Query    
 
+
+### *Dashboard*
+<img width="608" alt="Dashboard 1_1" src="https://github.com/user-attachments/assets/751555e0-c139-4050-8c0e-e2013c9fd52f" />
+
