@@ -13,16 +13,26 @@ Sales and order data for Northwind Traders, a fictitious gourmet food supplier, 
 
 ### *Project Workflow:*
 
-1. **Data Import:** Load project data into **PostgreSQL** database from CSV file.
+* **Data Import:** Load project data into **PostgreSQL** database from CSV file.
    
-2. **Power BI Connection:** Connect **Power BI** to the **PostgreSQL** database.
+* **Power BI Connection:** Connect **Power BI** to the **PostgreSQL** database.
 
-3. **Data Transformation:** Use **Power Query Editor** in Power BI to clean, filter, and transform the data, ensuring it’s structured for analysis.
+* **Data Transformation:** Use **Power Query Editor** in Power BI to clean, filter, and transform the data, ensuring it’s structured for analysis.
    
-4. **Data Modeling:** Perform **data modeling** by creating relationships between tables, defining calculated columns, and establishing measures using DAX.
+* **Data Modeling:** Perform **data modeling** by creating relationships between tables, defining calculated columns, and establishing measures using DAX.
 
-5. **Report Building:** Create and design interactive reports and dashboards, adding visuals (charts, tables, etc.) based on the transformed data.
+* **Report Building:** Create and design interactive reports and dashboards, adding visuals (charts, tables, etc.) based on the transformed data.
 Developed specific dashboards for **Sales Overview**, **Product Performance**, **Customer Analysis**, and **Shipping Costs** using Power BI Desktop.
+
+### *Key Features*  
+
+* **Sales Analysis**: Tracks total revenue, month-over-month growth, and top-selling products by category.
+   
+* **Customer Insights**: Analyzes customer distribution, top buyers, and country-wise sales.
+   
+* **Product Performance Overview**: Displays product performance, category-wise sales, and order quantity trends over time.
+   
+* **Shipping Stats**: Provides a country-wise freight summary, shipping performance, average transit and processing time, and carrier performance. 
 
 
 ### *Tools Used*
