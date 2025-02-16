@@ -30,6 +30,8 @@ Developed specific dashboards for **Sales Overview**, **Product Performance**, *
 2. Power BI Desktop     
 3. Power Query    
 
+### *Data Model*
+<img width="800" alt="Northwind Data Model" src="https://github.com/user-attachments/assets/b73f2633-0a92-4789-9559-b66f86df9a53" />
 
 ### *Dashboard*
 <img width="608" alt="Dashboard 1_1" src="https://github.com/user-attachments/assets/751555e0-c139-4050-8c0e-e2013c9fd52f" />
