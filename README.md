@@ -52,6 +52,23 @@ Developed specific dashboards for **Sales Overview**, **Product Performance**, *
 <img width="602" alt="Dashboard 4_1" src="https://github.com/user-attachments/assets/b27c96be-6b24-4a77-9d48-1f2734f61613" />
 
 
+### *Key Insights*
+
+* We have sales data of Northwind Traders from JULY 2013 to MAY 2015. Total Sales of 1.27M were observed for 830 orders. From 2013 to 2014, there is a 196.6% increment in sales, whereas from 2014 to 2015, sales decrease by 28.6%. Overall Growth from 2013 to 2015 was observed to be 111.80%.
+* Sales showed steady growth from mid-2013 to early 2015, peaking at $123.8K in may 2015 and there was a sudden drop in April 2015 to $18.3K, indicating a potential business issue or seasonality effect.
+* The moving average sales smooths out short-term fluctuations and shows the overall trend. It helps in identifying whether sales are increasing, decreasing, or stable over time.
+* Most selling Product Categories include Beverages($267.87k), Dairy Products($234.51k) and Confections($167.36k).
+* USA($245.58k), Germany($230.28k), Austria($128k) and Brazil($106.93k) contributes to major portion of sales. 
+* Quick Stop($110.27k), Ernst Handel($104.87k) and Save-a-lot market ($104.36k) are the key customers having more than 8% contribution in total sales of the company and AOV value more than $3000.
+* From 2013 to 2015, the company dealt with a total of 91 clients from different countries, with most of them coming from the USA (13), Germany (11), France (11), Brazil (9), and the UK (7).
+* Cote de Blaye ($141.3K) is the best-selling product, contributing 11.3% to total sales over three years. A major portion of its sales comes from the USA ($41.35K) and Germany ($30.83K). Cote de Blaye achieved its peak revenue performance in February 2015, generating $25.56K.
+* Maximum discount of 18.1% offered on Mishi Kobe Niku.
+* Most of the orders come from countries like USA, Germany, France, Brazil and UK.
+* The company has spent approximately $64.94K on freight over the years. A total of 326 orders were shipped through United Package, with total freight costs amounting to $28.2K between 2014 and 2015.
+
+* Countries such as Austria, Ireland, the USA, and Germany have a higher average freight cost than others. Among the shipping companies, United Package has a higher freight cost per order compared to others.
+* Federal Shipping has the shortest lead time and order processing time among all shipping providers and, hence, has fewer delayed orders.
+
 
 
 
