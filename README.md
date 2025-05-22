@@ -1,7 +1,7 @@
 # Northwind Traders Business Performance & Data Analysis (Power BI & PostgreSQL)
 ### *Project Objective* 
 
-The objective of this project is to analyze **Northwind Traders' sales data**, develop interactive dashboards, and provide insights on:
+The objective of this project is to analyze **Northwind Traders' sales data** and develop interactive Power BI dashboards to provide a clear and efficient understanding of the company’s performance in key areas, including:
 
 1. Sales Trends   
 2. Product Performance      
